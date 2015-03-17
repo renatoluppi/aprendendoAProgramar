@@ -25,7 +25,7 @@ public class TestDriver {
 		System.out.println ("Meu outro carro Ž " + Carro2.color + ", tem " + Carro2.portas + " portas e " + Carro2.rodas
 				+ " rodas!");
 		
-		Carro1.acendeFar—is();
+		Carro1.acendeFarois();
 		
 		Carro1.buzina();
 		

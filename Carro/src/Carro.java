@@ -12,8 +12,8 @@ public class Carro {
 		System.out.println ("Fom Fom");
 	}
 	
-	void acendeFar—is() {
-		System.out.println ("Acende os far—is");
+	void acendeFarois() {
+		System.out.println ("Acende os farois");
 	}
 	
 	void andaParaFrente() {
