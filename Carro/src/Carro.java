@@ -9,15 +9,15 @@ public class Carro {
 	
 	
 	void buzina() {
-		System.out.println ("fom fom");
+		System.out.println ("Fom Fom");
 	}
 	
 	void acendeFar—is() {
-		System.out.println ("acende os far—is");
+		System.out.println ("Acende os far—is");
 	}
 	
 	void andaParaFrente() {
-		System.out.println ("anda para frente");
+		System.out.println ("Anda para frente");
 	}
 	
 
